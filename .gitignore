@@ -1,0 +1,7 @@
+/.idea/
+/mock_server/node_modules/
+/mock_server/.idea/
+/ui_app/node_modules/
+/ui_app/.cache/
+/ui_app/dist/
+/ui_app/.idea/
